@@ -3,6 +3,7 @@ This is Android 13 (QPR2) with March 2023 (r35) security patches
 Notes:
 ==============================
 - Google camera (Gcam) viewfinder freezes sometimes. Rest all other camera are working
+- Google unlimited photos spoof toggle is turned off by default enable it if you want to use google photos unlimited storage benefit
 - Safetynet passes
 - Gapps build
 
