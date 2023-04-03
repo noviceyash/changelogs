@@ -1,0 +1,21 @@
+This is Android 13 (QPR2) with March 2023 (r35) security patches
+
+Notes:
+==============================
+- Google camera (Gcam) viewfinder freezes sometimes. Rest all other camera are working
+- Safetynet passes
+- Gapps build
+
+Device changes:
+==============================
+- Switch to mini gapps
+- set all 8 cores online
+- build media codec2 module
+- add additional camera libs
+------------------------------
+
+ROM changes:
+==============================
+Evolver: Disable/Remove several features
+Rebase entire framework to qpr2 changes
+Switch back to Pixel Launcher
